@@ -1,0 +1,42 @@
+header{
+background-color: Indigo;
+	color:color: #CCCCFFs;
+	padding: 20px;
+		font-size:40px;	
+}
+
+nav a {
+	margin: 30px;
+	margin-top: 10px;
+		font-size: 20px;
+	text-decoration:none;
+	color: white;
+		border: 3px solid navy;
+	border-radius: 10px;
+	background-color:navy ;
+}
+
+.1{
+	background-color: white;
+	color: DarkMagenta;
+}
+
+head{
+	background-color: Indigo;
+	color:color: #CCCCFFs;
+}
+
+body{
+	background-color: #330033;
+}
+
+p {
+	color:#CCCCFF;
+	text-align:center;
+	font-size: 30px
+}
+		text-align:center;
+h1{
+		text-align:center;
+
+}
