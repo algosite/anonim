@@ -1,5 +1,5 @@
 header{
-background-color: Indigo;
+background-color: navy;
 	color:color: #CCCCFFs;
 	padding: 20px;
 		font-size:40px;	
@@ -8,22 +8,19 @@ background-color: Indigo;
 nav a {
 	margin: 30px;
 	margin-top: 10px;
-		font-size: 20px;
+	font-size: 20px;
 	text-decoration:none;
 	color: white;
-		border: 3px solid navy;
+	border: 3px solid navy;
 	border-radius: 10px;
-	background-color:navy ;
-}
-
-.1{
-	background-color: white;
-	color: DarkMagenta;
+	background-color: navy;
+	margin:20px 15px 20px 15px; 
+	padding:10px 10px 10px 10px;
 }
 
 head{
 	background-color: Indigo;
-	color:color: #CCCCFFs;
+	color:color: #FFF100;
 }
 
 body{
@@ -33,10 +30,29 @@ body{
 p {
 	color:#CCCCFF;
 	text-align:center;
-	font-size: 30px
-}
-		text-align:center;
+	font-size: 30px;
+text-align:center;
+		}
 h1{
 		text-align:center;
+	color: white;	
+}
+
+img{
+	width: 500px;
 
 }
+
+ul{
+	background-color: #330033;
+	
+}
+
+h2{
+color:#CCCCFF;	
+}
+
+.FFF080{
+color:#FFF080;
+}
+
