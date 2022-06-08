@@ -45,7 +45,7 @@ img{
 
 ul{
 	background-color: #330033;
-	
+	color:#CCCCFF;
 }
 
 h2{
@@ -56,3 +56,7 @@ color:#CCCCFF;
 color:#FFF080;
 }
 
+nav{
+	display: flex;
+	justify-content: flex-start;
+}
