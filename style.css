@@ -18,6 +18,11 @@ nav a {
 	padding:10px 10px 10px 10px;
 }
 
+nav a:hover{
+	font-size: 40px;
+	color: #5CCCCC;
+}
+
 head{
 	background-color: Indigo;
 	color:color: #FFF100;
@@ -59,4 +64,24 @@ color:#FFF080;
 nav{
 	display: flex;
 	justify-content: flex-start;
+}
+
+div{
+	display: flex;
+	justify-content: start;
+	justify-content: space-around;
+	justify-content: space-between;
+}
+
+div img{
+	width: 30%;
+	border: 25px dashed #D636C9;
+	opacity: 0.2;
+	border-radius: 20%;
+}
+
+img:hover{
+	opacity: 1;
+	width: 40%;
+	height: 40%;
 }
